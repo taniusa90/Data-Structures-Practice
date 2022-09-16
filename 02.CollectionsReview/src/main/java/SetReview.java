@@ -16,7 +16,7 @@ public class SetReview {
 
 
         System.out.println(set);
-        //String st= "Javva Developer";
+        //String st= "Java Developer";
 
         //System.out.println(firstRepeatingChar(st));
 
